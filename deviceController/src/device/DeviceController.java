@@ -16,7 +16,8 @@ public class DeviceController {
 		inputDevices = new HashMap<Byte, Device8080>();
 		outputDevices = new HashMap<Byte, Device8080>();
 		statusDevices = new HashMap<Byte, Device8080>();
-		Terminal console = new Terminal();
+		//TODO - adjust for serial terminal
+//		Terminal console = new Terminal();
 
 //		Byte deviceAddress = console.getAddressIn();
 //		if (deviceAddress != null) {
