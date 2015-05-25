@@ -2,7 +2,7 @@ package device;
 
 import java.util.HashMap;
 
-import terminal.Terminal;	//found in project: terminalSerial
+//import terminal.Terminal;	//found in project: terminalSerial
 
 
 public class DeviceController {
